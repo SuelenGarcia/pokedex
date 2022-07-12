@@ -1,6 +1,6 @@
 # pokedex
 
-Pokedex simples de duas telas feito no VSCode com flutter.
+Pokedex simples de duas telas feito no VSCode com dart/flutter.
 Este está sem a arquitetura mvp.
 
 Um dos meus primeiros apps
